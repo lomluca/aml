@@ -1,2 +1,4 @@
-.DS_Store
-.ipynb_checkpoints
+monte-carlo-risk/
+challenge/.ipynb_checkpoints/
+challenge/challenge_data/.ipynb_checkpoints/
+.ipynb_checkpoints/
