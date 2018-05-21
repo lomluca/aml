@@ -1,6 +1,5 @@
-monte-carlo-risk/
-challenge/.ipynb_checkpoints/
-challenge/challenge_data/.ipynb_checkpoints/
 .ipynb_checkpoints/
-./challenge/challenge_data/
 .DS_Store
+lastfm/
+monte-carlo-risk/
+challenge_data/
